@@ -1,12 +1,12 @@
 :root {
-  --main-color: #090909;
+  --main-color: #012104;
   --title-bar: #212121;
   --bar-color: #181818;
   --bar-border-color: #282828;
-  --bar-size: 90px;
+  --bar-size: 70px;
   --accent-rgb: 29,185,84;
   --accent-hover: 30,215,96;
-  --accent-text-color: #fff;
+  --accent-text-color: #789876;
   --alt-accent: #5680d4;
   --alt-accent-text-color: #fff;
   --alert-color: #f04747;
@@ -33,15 +33,15 @@
   --select-input-color: #363636;
   --button-background: rgba(0,0,0,0.7);
   --button-border: 1px solid #b2b2b2;
-  --button-border-hover: 1px solid #fff;
-  --button-text-color: #fff;
-  --button-scale: 1.05;
+  --button-border-hover: 1px solid #3e553c; 
+  --button-text-color: #106621;
+  --button-scale: 1.5;
   --list-item-default: #212121;
   --list-item-hover: #333;
   --list-item-select: #5a5a5a;
   --sticky-header: #181818;
   --sticky-header-border: #303030;
-  --slider-color: #b3b3b3;
+  --slider-color: #008A41;
   --slider-background: var(--menu-border-color);
   --attachment-color: #272727;
   --supporter-color: rgb(var(--accent-rgb));
